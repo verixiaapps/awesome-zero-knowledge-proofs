@@ -29,6 +29,8 @@ Fast facts:
 
 - [ZoKrates](https://github.com/Zokrates/ZoKrates)
 - [DIZK](https://github.com/scipr-lab/dizk)
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ---
 
